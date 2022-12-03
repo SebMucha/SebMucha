@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebMucha
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning HTML basics
+- 🌱 I’m currently learning HTML CSS JS
 - 📫 How to reach me SebMucha#5853
 
 <!---
